@@ -19,9 +19,9 @@ This document breaks down the project into actionable milestones and detailed ta
     - [x] Set up persistent Docker volumes.
     - [x] Add a Makefile for common admin/dev tasks.
 * **Task 1.30: Base FastAPI Service Setup**
-    - [ ] Create a template `Dockerfile` for Python FastAPI services.
-    - [ ] Create a template `pyproject.toml` with basic FastAPI/uvicorn dependencies.
-    - [ ] Define a base FastAPI app structure (`src/main.py`).
+    - [x] Create a template `Dockerfile` for Python FastAPI services.
+    - [x] Create a template `pyproject.toml` with basic FastAPI/uvicorn dependencies.
+    - [x] Define a base FastAPI app structure (`src/main.py`).
 * **Task 1.40: Initial API Gateway Skeleton**
     - [ ] Create `backend/api_gateway_service/` directory.
     - [ ] Add `Dockerfile` and `pyproject.toml`.
