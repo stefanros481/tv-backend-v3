@@ -7,9 +7,9 @@ This document breaks down the project into actionable milestones and detailed ta
 **Goal:** Establish the foundational project structure and bring up core infrastructure services.
 
 * **Task 1.10: Initialize Monorepo**
-    - [ ] Create `tv-backend-v3` root directory.
-    - [ ] Create `backend/`, `frontend/` directories.
-    - [ ] Add initial `README.md` and `.gitignore`.
+    - [x] Create `tv-backend-v3` root directory.
+    - [x] Create `backend/`, `frontend/` directories.
+    - [x] Add initial `README.md` and `.gitignore`.
 * **Task 1.20: Docker Compose for Infrastructure**
     - [ ] Create `docker-compose.yml`.
     - [ ] Define `db` service (PostgreSQL).
