@@ -11,12 +11,12 @@ This document breaks down the project into actionable milestones and detailed ta
     - [x] Create `backend/`, `frontend/` directories.
     - [x] Add initial `README.md` and `.gitignore`.
 * **Task 1.20: Docker Compose for Infrastructure**
-    - [ ] Create `docker-compose.yml`.
-    - [ ] Define `db` service (PostgreSQL).
-    - [ ] Define `redis` service (for caching/Celery broker).
-    - [ ] Define `elasticsearch` service (for Global Search).
-    - [ ] Configure basic health checks for `db` and `elasticsearch`.
-    - [ ] Set up persistent Docker volumes.
+    - [x] Create `docker-compose.yml`.
+    - [x] Define `db` service (PostgreSQL).
+    - [x] Define `redis` service (for caching/Celery broker).
+    - [x] Define `elasticsearch` service (for Global Search).
+    - [x] Configure basic health checks for `db` and `elasticsearch`.
+    - [x] Set up persistent Docker volumes.
 * **Task 1.30: Base FastAPI Service Setup**
     - [ ] Create a template `Dockerfile` for Python FastAPI services.
     - [ ] Create a template `pyproject.toml` with basic FastAPI/uvicorn dependencies.
