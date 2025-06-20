@@ -17,6 +17,7 @@ This document breaks down the project into actionable milestones and detailed ta
     - [x] Define `elasticsearch` service (for Global Search).
     - [x] Configure basic health checks for `db` and `elasticsearch`.
     - [x] Set up persistent Docker volumes.
+    - [x] Add a Makefile for common admin/dev tasks.
 * **Task 1.30: Base FastAPI Service Setup**
     - [ ] Create a template `Dockerfile` for Python FastAPI services.
     - [ ] Create a template `pyproject.toml` with basic FastAPI/uvicorn dependencies.
